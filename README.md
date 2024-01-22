@@ -1,7 +1,5 @@
 # Hello there, I'm Álvaro
 
----
-
 I'm a Mathematics and Statistics student at Universidad de Sevilla.
 
 I like Data Analytics and Optimization problems.
