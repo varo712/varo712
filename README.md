@@ -28,14 +28,4 @@ I'm a passionate **AI Software Developer** with a deep interest in **software ar
 
 ---
 
-#### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varo712&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varo712&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 Feel free to reach out or check out my projects!
